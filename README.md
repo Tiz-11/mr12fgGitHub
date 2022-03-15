@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @mr12fgGitHub || Tiz 
 
-Currently actring as LTS for old projects / work
+Currently acting as LTS for old projects / work
